@@ -1,8 +1,12 @@
 ---
-title: "Amy Wong-Kroker"
-categories: ["Planet Express"]
-date: 2022-01-03
+title: "Home"
+date: 2023-09-05T21:20:58+02:00
 tags: ["Human"]
+categories: ["Studio"]
+draft: false
+subtitle: Serving the local community since 1999
+menu: main
+weight: 10
 images: ["AmyWong.png", "Bender_Rodriguez.png"]
 source: https://futurama.fandom.com/
 ---
@@ -14,4 +18,3 @@ Amy Kroker (née Wong), Ph.D. (born November or December 2979)[1] is the wife of
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod repellendus deserunt dignissimos corporis reiciendis voluptates sapiente repudiandae necessitatibus nam qui.
 
 {{< img-index "1" "Photo of Bender" >}}
-

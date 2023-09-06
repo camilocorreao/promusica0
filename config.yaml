@@ -1,5 +1,5 @@
 baseURL: http://localhost/
-title: Hugo Blog Course
+title: proMusica
 # alternate copyright company text
 copyright: Camilo Correa
 # controls number of pages displayed on list pages
@@ -58,6 +58,8 @@ related:
   toLower: true
 
 params:
+  title: proMusica
+  logo: "/images/logo.png"
   dateFormat: "02/01/2006"
   widgets:
     - search
@@ -69,3 +71,6 @@ params:
   relatedPosts: 5
   recentPosts: 5
   # postTags: 10
+
+build:
+  useResourceCache: false
